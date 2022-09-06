@@ -1,3 +1,3 @@
 def call(name){
-  echo 'This pull request is created by user: ' + name;
+  println("Created by: ${name}");
 }
